@@ -1,10 +1,10 @@
 ﻿# README
 #作业
-#[第三次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A(1).md)
-#[第四次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+####[第三次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A(1).md)
+####[第四次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 
 
----American ROCK N ROLL
+__American ROCK N ROLL__
 
 #the ROCK N ROLL 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
