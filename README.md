@@ -1,9 +1,8 @@
 ﻿# README
-﻿#作业
-[第三次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A(1).md)
-[第四次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+#作业
+#[第三次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A(1).md)
+#[第四次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 
-标签（空格分隔）： ROCK N ROLL
 
 ---American ROCK N ROLL
 
