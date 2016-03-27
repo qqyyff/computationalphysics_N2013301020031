@@ -21,8 +21,8 @@ This is not relevant.....
 ####Bon Jovi  1990s
 ![Bon Jovi](http://www.voa365.com/uploads/allimg/100707/16401T000-0.jpg)
 
-
-
+[第三次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A(1).md)
+[第四次作业](
 
 
 
