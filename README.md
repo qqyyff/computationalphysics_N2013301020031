@@ -3,7 +3,7 @@
 ####[第三次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A(1).md)
 ####[第四次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 ####[the fifth homework](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
-
+####[第六次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 
 __American ROCK N ROLL__
 
