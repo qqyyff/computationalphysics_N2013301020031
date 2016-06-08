@@ -11,6 +11,7 @@
 ####[第十一次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/the%20eleventh%20homework.md)
 ####[第十二次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/the%20twelfth%20homework.md)
 ####[第十三次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/the%20thirteenth%20homework.md)
+####[第十四次作业](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/the%20fourteenth%20homework.md)
 __American ROCK N ROLL__
 
 #the ROCK N ROLL 
